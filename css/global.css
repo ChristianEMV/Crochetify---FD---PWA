@@ -1,0 +1,39 @@
+/* Styles Login */
+body {
+    background-color: #AEDCD8;
+  }
+  /* Center the card */
+  .container {
+      height: 100vh;
+    }
+    
+    /* Card shadow */
+    .card {
+      border-radius: 10px;
+    }
+  
+    .card-title{
+      text-align: center;
+      text-transform: uppercase;
+    }
+  
+    .form-control{
+      border-color: #44B7AC;
+    }
+  
+    .login-btn{
+      background-color: #1B1B1B;
+      color: white;
+      border-radius: 5px;
+      align-items: center;
+    }
+  
+    .login-btn:hover{
+      background-color: #474747;
+      color: white;
+    }
+  
+    .div-loginbtn{
+      text-align: center;
+    }
+

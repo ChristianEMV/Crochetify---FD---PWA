@@ -36,4 +36,40 @@ body {
     .div-loginbtn{
       text-align: center;
     }
+    .banner {
+      background: linear-gradient(135deg, #30596B, #5EAED1);
+      padding: 32px 16px; /* Reduce el alto del banner */
+      margin-bottom: 48px; /* Espacio inferior para la superposición */
+  }
+
+  .cards-container {
+      margin-top: -80px; /* Superposición de las cards sobre el banner */
+  }
+
+  .custom-card {
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+}
+
+.card-number {
+    font-size: 30px; /* Tamaño del número */
+    font-weight: 600;
+}
+
+.card-title {
+    font-size: 16px; /* Tamaño del título */
+    font-weight: 500;
+}
+
+.icon-container {
+    font-size: 100px; /* Tamaño del icono */
+    display: flex;
+    align-items: center;
+}
+
+.card-text {
+    font-size: 15px; /* Tamaño del texto */
+}
+
 

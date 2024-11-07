@@ -38,7 +38,7 @@ body {
     }
     .banner {
       background: linear-gradient(135deg, #30596B, #5EAED1);
-      padding: 32px 16px; /* Reduce el alto del banner */
+      padding: 32px 10px; /* Reduce el alto del banner */
       margin-bottom: 48px; /* Espacio inferior para la superposición */
   }
 
@@ -71,5 +71,4 @@ body {
 .card-text {
     font-size: 15px; /* Tamaño del texto */
 }
-
 
